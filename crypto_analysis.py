@@ -3,9 +3,6 @@ Cryptocurrency Price Prediction and Analysis
 =============================================
 Program untuk memprediksi harga cryptocurrency menggunakan Machine Learning
 dan visualisasi data trading dengan indikator teknikal.
-
-Author: Your Name
-Date: 2025
 """
 
 import pandas as pd
