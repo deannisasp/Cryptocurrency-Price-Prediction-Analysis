@@ -1,8 +1,8 @@
-# Cryptocurrency Price Prediction & Analysis 📊
+# Cryptocurrency Price Prediction & Analysis
 
 A comprehensive Python project for cryptocurrency price prediction using machine learning and technical analysis visualization.
 
-## Features ✨
+## Features
 
 - **Technical Indicators**: RSI, MACD, Bollinger Bands, Moving Averages
 - **Machine Learning Models**: 
@@ -12,7 +12,7 @@ A comprehensive Python project for cryptocurrency price prediction using machine
 - **Interactive Visualizations**: Dark-themed trading charts with multiple indicators
 - **Statistical Analysis**: 24h price changes, volume analysis, trend detection
 
-## Installation 🚀
+## Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -31,7 +31,7 @@ cd crypto-analysis
 pip install -r requirements.txt
 ```
 
-## Usage 💻
+## Usage
 
 ### Basic Analysis
 
@@ -65,7 +65,7 @@ coin     | date       | open     | high     | low      | close    | volume      
 Bitcoin  | 2024-01-01 | 45000.00 | 46000.00 | 44500.00 | 45800.00 | 1000000000  | 900000000000
 ```
 
-## Technical Indicators 📈
+## Technical Indicators
 
 The project calculates and visualizes the following technical indicators:
 
@@ -86,7 +86,7 @@ The project calculates and visualizes the following technical indicators:
 ### Volatility Indicators
 - **Bollinger Bands**: 20-period with 2 standard deviations
 
-## Machine Learning Models 🤖
+## Machine Learning Models
 
 ### 1. Random Forest Classifier
 - Ensemble method using multiple decision trees
@@ -103,7 +103,7 @@ The project calculates and visualizes the following technical indicators:
 ### Prediction Target
 Models predict whether the price will go **UP** or **DOWN** in the next period.
 
-## Visualization 📊
+## Visualization
 
 The trading chart includes:
 
@@ -122,7 +122,7 @@ The trading chart includes:
    - Signal line
    - Histogram
 
-## Project Structure 📁
+## Project Structure
 
 ```
 crypto-analysis/
@@ -137,7 +137,7 @@ crypto-analysis/
     └── data.xlsx       # Your cryptocurrency data (not included)
 ```
 
-## Example Output 🖼️
+## Example Output
 
 ```
 ================================================
@@ -178,7 +178,7 @@ SVM:           0.8458
 🏆 Best Model: XGBOOST (Accuracy: 0.8625)
 ```
 
-## Contributing 🤝
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -188,26 +188,17 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License 📄
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Disclaimer ⚠️
+## Disclaimer
 
 This tool is for educational and research purposes only. Cryptocurrency trading involves substantial risk of loss. The predictions made by this tool should not be considered as financial advice. Always do your own research before making investment decisions.
 
-## Author ✍️
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## Acknowledgments 🙏
-
-- Thanks to the open-source community for the amazing libraries
-- Inspired by various cryptocurrency analysis tools
-- Special thanks to contributors and testers
+## Author
+Deannisa Syafira Putri
+- Email: deannisa.03.dspp@gmail.com
 
 ---
 
-**⭐ If you find this project useful, please consider giving it a star!**
